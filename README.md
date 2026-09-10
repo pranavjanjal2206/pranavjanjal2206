@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**pranavjanjal2206/pranavjanjal2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pranav Janjal, a Data Analyst fresher.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Excel
+- Power BI
+
+## 📊 About Me
+
+I am interested in Data Analytics and enjoy working with data to find useful insights.
+
+I am currently building my skills in Python, SQL, Excel and Power BI and creating practical data analytics projects.
+
+## 🎯 Career Goal
+
+Looking for opportunities to start my career as a Data Analyst and grow through practical experience.
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/pranav-janjal-568aa0413/)
